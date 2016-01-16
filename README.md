@@ -10,3 +10,4 @@ The term "dynamic programming" was invented by [Richard E. Bellman](https://en.w
 List of the problems in this repository:
 * Rod Cutting Problem
 * Min Jumps to the end of an array
+* Making Change Problem
