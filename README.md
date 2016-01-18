@@ -12,3 +12,4 @@ List of the problems in this repository:
 * Min Jumps to the end of an array
 * Making Change Problem
 * 0-1 Knapsack Problem
+* Longest Common Subsequence Problem
